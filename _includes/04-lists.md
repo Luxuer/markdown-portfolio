@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+接下来要看的书:
+1. 数字图像处理
+2. 计算机视觉OpenCV
+3. 计算机视觉中的数学方法
+4. OpenCV入门教程
